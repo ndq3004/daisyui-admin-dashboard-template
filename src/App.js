@@ -13,7 +13,7 @@ const Register = lazy(() => import('./pages/Register'))
 const Documentation = lazy(() => import('./pages/Documentation'))
 
 
-// Initializing different libraries
+// Initializing different libraries 1
 initializeApp()
 
 
