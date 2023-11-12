@@ -5,6 +5,7 @@ module.exports = Object.freeze({
         LEAD_ADD_NEW : "LEAD_ADD_NEW",
         CONFIRMATION : "CONFIRMATION",
         DEFAULT : "",
+        VOCAB_ADD_NEW: "VOCAB_ADD_NEW",
     },
 
     RIGHT_DRAWER_TYPES : {
